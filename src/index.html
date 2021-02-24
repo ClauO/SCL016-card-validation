@@ -1,14 +1,52 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Tarjeta de crédito válida</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <header></header>
-    <main></main>
-    <footer></footer>
-    <script src="index.js" type="module"></script>
-  </body>
+
+<head>
+  <meta charset="utf-8">
+  <title>Tarjeta de crédito válida</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div class="primeraPagina">
+    <h1 class="titulo">¡Has recibido un regalo!</h1>
+    <p class="p1">Ingresa el número de tu giftcard y canjea tu regalo de Blizzard.</p>
+    <p class="correo">Email: <input type="email" class="cuadro2" /></p>
+    <p class="p2">N° de Tarjeta:
+      <input type="text" name="" value="" class="cuadro" maxlength="16" />
+      <br>
+      <span class="textoError">Debes ingresar una tarjeta de 16 digitos</span>
+      <span class="tarInvalida">Tu tarjeta es inválida</span>
+    </p>
+    <div class="contenedor-imagen">
+      <img class="imagen" src="https://bnetcmsus-a.akamaihd.net/cms/blog_header/1q/1QU8LEWIYY271545267742830.jpg"
+        alt="">
+    </div>
+  </div>
+  <!--Segunda Página-->
+  <div class="segundaPagina">
+    <h1 class="segundoTitulo">El número de tu tarjeta es correcto</h1>
+    <p class="p3">¿Estás segur@ de que deseas utilizarla? Confirma presionando la imagen, de lo contrario, haz click en
+      "volver"</p>
+    <br />
+    <span class="mostrarTarjeta">Numero de tarjeta aquí</span>
+    <div class="contenedor2">
+      <img class="imagen2" src="https://www.zonammorpg.com/wp-content/uploads/2019/11/blizzard-games.jpg" alt="" />
+    </div>
+    <button class="botonVolver">Volver</button>
+  </div>
+  <!--Última Página-->
+  <div class="final">
+    <h1 class="ultimoTitulo">¡Felicitaciones, tu premio ha sido enviado a tu correo!</h1>
+    <p class="p4">Al canjear tu regalo, has acumulado 20 puntos más.</p>
+    <a href="https://www.blizzard.com/es-es/">
+      <img class="imagen3" src="https://nerdcolony.com/wp-content/uploads/2018/10/BlizzardLogo.jpg" alt="" />
+    </a>
+    <br />
+    <button type="button" name="button" class="finalizar">Inicio</button>
+  </div>
+</body>
+<script type="module" src="index.js"></script>
+<script type="module" src="validator.js"></script>
+
 </html>

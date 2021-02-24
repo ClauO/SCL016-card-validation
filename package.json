@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "src/index.html",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "htmlhint": "htmlhint src/*.html test/*.html",
     "eslint": "eslint --ext .js src/ test/",
@@ -22,5 +23,8 @@
     "jest": "^26.6.1",
     "opener": "^1.5.1",
     "serve": "^11.0.0"
+  },
+  "devDependencies": {
+    "maskify": "^1.0.1"
   }
 }

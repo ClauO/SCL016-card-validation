@@ -1,0 +1,225 @@
+body {
+  background-color: #091219;
+  margin: 0px auto;
+}
+
+.primeraPagina, .segundaPagina, .final {
+  background-image: url("https://images.alphacoders.com/695/thumb-1920-695738.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  text-align: center;
+}
+
+.titulo {
+  padding: 30px;
+  color #FFFFFF;
+  font-weight: bolder;
+  font-family: cuprum;
+  font-size: 45px;
+  text-align: center;
+  width: 750px;
+  border-style: solid;
+  border-color: #074985;
+  border-width: 3px;
+  margin: 0px auto;
+  background-color: #8db6f3;
+  opacity: 0.7;
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+}
+
+.correo {
+  color: #FFFFFF;
+  background-color: #8db6f3;
+  border-style: solid;
+  opacity: 0.7;
+  padding: 20px;
+  width: 750px;
+  font-family: cuprum;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0px auto;
+  margin-top: 0.2em;
+}
+
+.cuadro2 {
+  border-style: double;
+}
+
+.textoError, .tarInvalida {
+  color: red;
+  display: none;
+}
+
+.p1 {
+  color: #FFFFFF;
+  background-color: #8db6f3;
+  font-family: cuprum;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 8px;
+  opacity: 0.7;
+  width: 750px;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  margin: 0px auto;
+  padding: 20px;
+  margin-top: 0.2em;
+}
+
+.p2 {
+  color: #FFFFFF;
+  background-color: #8db6f3;
+  border-style: solid;
+  opacity: 0.7;
+  padding: 20px;
+  width: 750px;
+  font-family: cuprum;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0px auto;
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+}
+
+.segundoTitulo {
+  padding: 30px;
+  color: #FFFFFF;
+  font-weight: bolder;
+  font-family: cuprum;
+  font-size: 45px;
+  text-align: center;
+  width: 750px;
+  border-style: solid;
+  border-color: #074985;
+  border-width: 3px;
+  margin: 0px auto;
+  background-color: #8db6f3;
+  opacity: 0.7;
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+}
+
+.mostrarTarjeta {
+  color: #FFFFFF;
+  background-color: #8db6f3;
+  border-style: solid;
+  opacity: 0.7;
+  padding: 20px;
+  width: 750px;
+  font-family: cuprum;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0px auto;
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+  display: block;
+}
+
+.imagen2 {
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+}
+
+.p3 {
+  color: #FFFFFF;
+  background-color: #8db6f3;
+  border-style: solid;
+  opacity: 0.7;
+  padding: 20px;
+  width: 750px;
+  font-family: cuprum;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0px auto;
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+}
+
+.botonVolver {
+  border-style: outset;
+  background-color: beige;
+  margin: 0px auto;
+}
+
+.cuadro {
+  border-style: double;
+}
+
+.boton {
+  border-style: outset;
+  background-color: beige;
+}
+
+.imagen, .imagen2, .imagen3, .finalizar, .fin {
+  transition: transform .3s;
+  opacity: 0.9;
+}
+
+.contenedor-imagen {
+  text-align: center;
+  width: 50%;
+  margin: 0px auto;
+}
+
+.imagen:hover, .imagen2:hover, .botonVolver:hover, .finalizar:hover, .imagen3:hover {
+  cursor: pointer;
+  box-shadow: 1px 1px 23px 2px deepskyblue;
+  transform: scale(1.05);
+  opacity: 1.0;
+} 
+
+.ultimoTitulo {
+  padding: 30px;
+  color: #FFFFFF;
+  font-weight: bolder;
+  font-family: cuprum;
+  font-size: 45px;
+  text-align: center;
+  width: 750px;
+  border-style: solid;
+  border-color: #074985;
+  border-width: 3px;
+  margin: 0px auto;
+  background-color: #8db6f3;
+  opacity: 0.7;
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+}
+
+.p4 {
+  color: #FFFFFF;
+  background-color: #8db6f3;
+  font-family: cuprum;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 8px;
+  opacity: 0.7;
+  width: 750px;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  margin: 0px auto;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+}
+
+.finalizar {
+  border-style: outset;
+  background-color: beige;
+  margin: 0px auto;
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+}
+
+.final {
+  display: none;
+  background-image: url("https://images.alphacoders.com/695/thumb-1920-695738.jpg");
+}
+
+.segundaPagina {
+  display: none;
+  background-image: url("https://images.alphacoders.com/695/thumb-1920-695738.jpg");
+}
