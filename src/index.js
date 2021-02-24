@@ -37,7 +37,6 @@ const volver = () => {
 const formatearNumero = () => {
     const valor = document.querySelector('.cuadro').value;
     document.querySelector('.cuadro').value = valor.replace(regex, '');
-
 }
 
 const resetearValores = () => {
