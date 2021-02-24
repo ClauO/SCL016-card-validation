@@ -28,7 +28,7 @@ La idea de este proyecto es crear una **página web**, donde los usuarios puedan
 
 - Como dije anteriormente, es una buena idea a la hora de no saber qué regalar en alguna ocasión especial (cumpleaños, navidad, graduación, etc.). Ya que está orientado para público desde los 17 a los 40 años, aunque no tenga el dinero suficiente, utilizando una **tarjeta de regalo**, puede acceder a su juego o comprar alguna montura, personaje, etc.
 
-### Primer prototitpo en papel :pencil2:
+### Primer prototipo en papel :pencil2:
 
 <div style="text-align:center">
 <img src="https://i.ibb.co/7WgwDTL/protpapel1.jpg" alt="drawing" width="500" text-align="center"/>
