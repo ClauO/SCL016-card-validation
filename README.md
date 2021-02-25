@@ -12,11 +12,11 @@ La idea de este proyecto es crear una **página web**, donde los usuarios puedan
 
 ## 2. Imagen final del proyecto :camera:
 
-![Imagen final proyecto1](https://i.ibb.co/zS9snVq/1.jpg)
+![Imagen final proyecto1](https://i.ibb.co/5hdFCrM/1.png)
 
-![Imagen final proyecto2](https://i.ibb.co/Wtjn56G/2.jpg)
+![Imagen final proyecto2](https://i.ibb.co/0hXYXNj/2.png)
 
-![Imagen final proyecto3](https://i.ibb.co/tB52gzq/3.jpg)
+![Imagen final proyecto3](https://i.ibb.co/PtFrgyQ/3.png)
 
 ## 3. Investigación UX :art:
 
@@ -57,4 +57,4 @@ Al exponer la idea a mis compañeras y coach, llegamos a la conclusión de que p
 - [x] Cambiar la idea de la **prueba gratis** por la de una página para canjear **tarjetas de regalo**, y que pudiera servir para cualquier cosa relacionada a Blizzard en sí, no a un solo juego en específico.
 - [x] Ya no pide tantos datos personales, solo un correo electrónico y el número de la gift card.
 - [x] Sigue teniendo las tres páginas que se pensaron inicialmente, pero ya no están los botones que nos llevan de una página a otra, sino que se cambiaron por **imágenes**, que al clickear, sirven como botón y nos llevan de un lugar a otro.
-
+- [x] Cambiar **color de letra** a color negro para que no se vea del mismo color del **fondo**.
