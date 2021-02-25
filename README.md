@@ -2,9 +2,9 @@
 
 ## Índice :page_with_curl:
 
-* [1. Resumen del proyecto](#1-Resumen-Proyecto)
-* [2. Imagen final del proyecto](#2-Imagen-final-del-proyecto)
-* [3. Investigación UX](#3-Investigación-UX)
+* [1. Resumen del proyecto](#1-Resumen-Proyecto-scroll)
+* [2. Imagen final del proyecto](#2-Imagen-final-del-proyecto-camera)
+* [3. Investigación UX](#3-Investigación-UX-art)
 
 ## 1. Resumen Proyecto :scroll:
 
@@ -14,7 +14,7 @@ La idea de este proyecto es crear una **página web**, donde los usuarios puedan
 
 ![Imagen final proyecto1](https://i.ibb.co/zS9snVq/1.jpg)
 
-![Imagen final proyecto2](https://i.ibb.co/nM4xRD7/2-1.jpg)
+![Imagen final proyecto2](https://i.ibb.co/Wtjn56G/2.jpg)
 
 ![Imagen final proyecto3](https://i.ibb.co/tB52gzq/3.jpg)
 

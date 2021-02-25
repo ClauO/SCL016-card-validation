@@ -48,7 +48,7 @@ const resetearValores = () => {
 
 document.querySelector(".contenedor-imagen").addEventListener("click", botonImagen);
 //Al hacer click a la primera imagen, que ejecute la funcion segun corresponda, si la tarjeta es válida, pasar a segunda página
-document.querySelector(".contenedor2").addEventListener("click", segundoBoton);
+document.querySelector(".imagen2").addEventListener("click", segundoBoton);
 // Al hacer click a la segunda imagen, para confirmar el uso de la tarjeta, que nos envíe a la última página
 document.querySelector(".botonVolver").addEventListener("click", inicio);
 // Al presionar el botón volver, que me lleve a la página principal y que se reseteen los valores ingresados anteriormente
